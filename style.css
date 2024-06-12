@@ -205,7 +205,9 @@
     color: #DC780B;
 }
 
-
+.menu{
+    padding: 70px 0px;
+}
 .menu_logo {
     font-size: larger;
     margin-bottom: 15px;
@@ -300,4 +302,28 @@
     align-items: center;
     justify-content: space-around;
     gap: 45%;
+}
+.end_footer{
+    padding: 100px 0px;
+    background-color: #252525;
+    
+}
+.end_img{
+    width: 35%;
+}
+.end{
+ 
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    color: #b0b0b0;
+    background-color: #252525;
+    justify-content: space-between;
+}
+.end_text{
+    color: white;
+}
+.end_title{
+margin-top:15px ;
 }
